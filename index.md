@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# Hexagon Dark for [Visual Studio Code](http://code.visualstudio.com)
+> Hexagon is a Dark theme made for [Visual Studio Code](http://code.visualstudio.com)
 
-You can use the [editor on GitHub](https://github.com/Polynamic/Hexagon-Dark-VSC-Theme/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Installation:
+Installation methods for Hexagon Dark.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Install with Command Palette
+- Go to View -> Command Palette or press Ctrl+Shift+P
+- Type Install Extension
+- Write Hexagon Dark
+- Select it or press Enter to install
 
-### Markdown
+## Install with Git
+- git clone https://github.com/polynamic/Hexagon-Dark-VSC-Theme.git ~/.vscode/extensions/hexagon-dark
+- cd ~/.vscode/extensions/hexagon-dark
+- npm install
+- npm run build
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Activating the theme
+Run Visual Studio Code. The Hexagon Dark Theme will be available from File -> Preferences -> Color Theme dropdown menu.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Polynamic/Hexagon-Dark-VSC-Theme/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Enjoy!**
