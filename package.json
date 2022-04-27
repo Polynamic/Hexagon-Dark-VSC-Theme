@@ -1,0 +1,21 @@
+{
+    "name": "hexagon-dark",
+    "displayName": "Hexagon Dark",
+    "description": "Hexagon Dark Theme!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Hexagon Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Hexagon Dark-color-theme.json"
+            }
+        ]
+    }
+}
